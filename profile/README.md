@@ -3,6 +3,8 @@
 
 ## Key Features
 - **Task Management**: Create, edit, complete, and delete categorized tasks
+- **Collaborative Events**:
+  - Make events collaborative, invite other users, participate in someone's events (everything with e-mail notifications) 
 - **Progress Tracking**: 
   - Daily/weekly statistics
   - Streak counters
