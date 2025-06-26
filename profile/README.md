@@ -42,7 +42,7 @@ graph LR
 ## Repository Structure
 | Component | Repository | Tech Stack | Documentation |
 |-----------|------------|------------|---------------|
-| **Android Client** | [SmartCalendar-Android](https://github.com/hse-project-Java-2025/client) | Kotlin, Jetpack Compose | [Client README]() |
+| **Android Client** | [SmartCalendar-Android](https://github.com/hse-project-Java-2025/client) | Kotlin, Jetpack Compose | [Client README](https://github.com/hse-project-Java-2025/client/blob/main/README.md) |
 | **Backend Server** | [SmartCalendar-Server](https://github.com/hse-project-Java-2025/server) | Java 21, Spring Boot, PostgreSQL | [Server README](https://github.com/hse-project-Java-2025/server/blob/main/README.md) |
 
 
